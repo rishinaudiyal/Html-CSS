@@ -1,5 +1,5 @@
 div {
     width: 100px;
     height: 100px;
-    border: 10px red;
+    border: 1px groove rgb(255, 0, 0);
 }
